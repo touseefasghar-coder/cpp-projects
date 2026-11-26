@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "windows-gcc-x64",
+            "includePath": [
+                "c:/Users/faheem/OneDrive/Desktop/cpp-projects/**"
+            ],
+            "compilerPath": "gcc",
+            "cStandard": "c23",
+            "cppStandard": "c++26",
+            "intelliSenseMode": "${default}",
+            "compilerArgs": [
+                ""
+            ],
+            "compilerPathInCppPropertiesJson": "gcc",
+            "mergeConfigurations": false,
+            "recursiveIncludes": {},
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true
+            }
+        },
+        {
+            "name": "g++",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        }
+    ],
+    "version": 4
+}
